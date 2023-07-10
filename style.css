@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;900&display=swap');
+img{
+  width: 50%;
+}
+body{
+text-align: center;
+width: 100%;
+font-size: 21px;
+margin: 0 auto;
+}
+.container{
+  text-align: center;
+  width: 100%;
+font-family: 'Roboto', sans-serif;
+margin: 0 auto;
+}
+
+h1, h2{
+  font-weight: 300;
+}
+h1{
+  font-size: 80px;
+  
+}
+h2{
+  font-size: 60px;
+}
+h3{
+  font-size: 36px;
+}
+.small{
+  font-size: 16px;
+  color: #99D930;
+}
+
+.new{
+  font-weight: 900;
+  display: block;
+  color: #99D930;
+}
+a{
+  color: #99D930;
+}
+a:hover{
+  color: #131313;
+}
+header{
+  background-color: #252525;
+ padding-top: 100px;
+ padding-bottom: 100px;
+ color: #fff;
+ 
+}
+main{
+  background-color: #FFF;
+ padding-top: 100px;
+ padding-bottom: 100px;
+}
+footer{
+  background-color: #252525;
+ padding-top: 100px;
+ padding-bottom: 100px;
+ color: #fff;
+}
+.btn{
+ background-color: #99D930;
+  font-weight: 900;
+  height: 40px;
+  padding: 0px 10px;
+  font-size: 20px;
+  border: none;
+}
+button:hover{
+  background-color: #fff;
+  color: #252525;
+}
+hr{
+  color: #C4C4C4;
+  width: 500px;
+  line-height: 10px;
+  padding: 0;
+  margin: 0 auto;
+}
